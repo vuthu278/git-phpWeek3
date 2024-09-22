@@ -22,7 +22,7 @@ require_once"head.php"
                                             <option disabled="disabled" selected="selected">Sex</option>
                                             <option>Male</option>
                                             <option>Female</option>
-                                            <option>Other</option>
+                                            <option>Bong gio</option>
                                         </select>
                                         <div class="select-dropdown"></div>
                                     </div>
